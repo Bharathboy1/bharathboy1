@@ -1,24 +1,46 @@
 <!-- CENTERED ANIME GIF -->
 <p align="center">
-  <!-- Use local file: ./assets/anime.gif (recommended) -->
   <img src="./assets/anime.gif" alt="anime" width="320" />
-
-  <!-- Or use an external GIF (replace URL below) -->
-  <!-- <img src="https://media.giphy.com/media/your-chosen-gif.gif" alt="anime" width="320" /> -->
 </p>
 
-<h1 align="center">Welcome 👋</h1>
-
-<p align="center">A small corner for code experiments, quick demos, and playful automation.</p>
-
----
+<h1 align="center">Welcome to My Digital Den 🖤</h1>
 
 <p align="center">
-  <!-- Optional: uncomment and replace links if you want to add them later -->
-<a href="[https://your-portfolio.example](https://bharaths.vercel.app/)">Portfolio</a> • <a href="https://github.com/bharathboy1">Repositories</a>
+  <i>Minimal • Curious • Always Learning</i>
 </p>
 
 ---
 
-<!-- small visual separator -->
-<p align="center">—</p>
+### 🧠 What You’ll Find Here
+- ⚙️ Little experiments, side ideas, and WIP projects  
+- 🧩 Random automation scripts and bot tests  
+- 💡 Snippets that might save someone’s time  
+- 🌙 Telegram usefull Bots
+
+---
+
+### 🪄 Tech Interests
+> Things I’m currently exploring or love tinkering with:
+
+🕸️ Web frontends · 🐍 Python utilities · ☁️ Cloud deploys · 🤖 Automation & bots  
+🧠 Design minimalism · 🎧 Music-driven coding · 🕶️ Terminal aesthetics  
+
+---
+
+### 🕹️ Vibe Check
+> “Write code, not chaos.”  
+> — Anonymous developer somewhere between caffeine and deadlines.
+
+---
+
+### 🧩 Tools of the Trade
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,vercel,cloudflare,railway&theme=dark" />
+</p>
+
+---
+
+### 🌌 Random Line Generator (For Fun)
+```js
+const quote = ["Focus over flash", "Build > Talk", "Stay curious", "Sleep is for the stable releases"];
+console.log(quote[Math.floor(Math.random() * quote.length)]);
