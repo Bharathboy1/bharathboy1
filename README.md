@@ -1,6 +1,6 @@
 <!-- CENTERED ANIME GIF -->
 <p align="center">
-  <img src="./assets/anime.gif" alt="anime" width="320" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE5NjRwdnY5NTh6MHYzd2s4MjM3a2RhYTZ4Z2RheWpnYWJtYmM1NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MZ7yrimhG3DThJqHjl/giphy.gif" alt="anime" width="320" />
 </p>
 
 <h1 align="center">Welcome to My Digital Den 🖤</h1>
